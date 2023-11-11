@@ -52,7 +52,7 @@ Useful documentation can be found at:
 * For endpoint, swagger UI and other source code examples can be found at [snapWONDERS developers documentation](https://snapwonders.com/snapwonders-openapi-specification)
 * The actual snapWONDERS OpenAPI Specification can be found at [snapWONDERS OpenAPI Specification](https://api.snapwonders.com/site/docs)
 * If you're wanting the actual JSON Schema details for the purpose of auto generating source from the schema you can use [snapWONDERS OpenAPI Specification JSON Schema](https://api.snapwonders.com/site/json-schema)
-* This README.md and its content is mostly duplicated at [How to create a Python client to integrate with the snapWONDERS API](https://snapwonders.com/resources/how-to-create-a-Python-client-to-integrate-with-the-snapwonders-api)
+* This README.md and its content is mostly duplicated at [How to create a Python client to integrate with the snapWONDERS API](https://snapwonders.com/resources/how-to-create-a-python-client-to-integrate-with-the-snapwonders-api)
 
 
 # Contact
